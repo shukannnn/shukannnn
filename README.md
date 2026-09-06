@@ -65,10 +65,3 @@ still shipping, still learning
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shukannnn&show_icons=true&hide_border=true&title_color=00A86B&icon_color=00A86B&text_color=808080&bg_color=00000000" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukannnn&layout=compact&hide_border=true&title_color=00A86B&text_color=808080&bg_color=00000000" alt="top langs" height="165" />
-</p>
